@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Nomenclatura e Convenções.md",
+                "file": "Seção 2 - Fundamentos/5 - Nomenclatura e Convenções.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,12 +170,13 @@
   },
   "active": "d127abfd28967635",
   "lastOpenFiles": [
-    "2 - Tipos de Refêrencia.md",
-    "4 - Nullable Types.md",
-    "5 - Nomenclatura e Convenções.md",
-    "3 - DateTime.md",
+    "Seção 2 - Fundamentos",
+    "Seção 2 - Fundamentos/2 - Tipos de Refêrencia.md",
+    "Seção 2 - Fundamentos/4 - Nullable Types.md",
+    "Seção 2 - Fundamentos/5 - Nomenclatura e Convenções.md",
+    "Seção 2 - Fundamentos/3 - DateTime.md",
     "Pasted image 20250627194949.png",
-    "1 - Organização do Código.md",
+    "Seção 2 - Fundamentos/1 - Organização do Código.md",
     "Pasted image 20250625132215.png"
   ]
 }
