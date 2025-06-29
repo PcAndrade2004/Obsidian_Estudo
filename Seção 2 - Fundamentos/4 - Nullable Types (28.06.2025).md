@@ -3,7 +3,7 @@ Devemos utilizá-los quando precisarmos que um tipo valor (**como tipo numérico
 Ate o momento podemos dizer que algo é <font color="#ff0000">null</font> quando estamos nos referindo a tipos de referencia (String, Object)
 
 ## O que é Nullable Types
-* - Um **Nullable Type** é um tipo por valor que pode receber um valor `null`.
+* - Um **Nullable Types** é um tipo por valor que pode receber um valor `null`.
     
 - Os **Nullable Types**, ou **Tipos Anuláveis**, permitem atribuir um valor `null` a um tipo por valor.
 
